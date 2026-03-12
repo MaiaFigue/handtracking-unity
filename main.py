@@ -35,6 +35,7 @@ while True:
         
         sock.sendto(str.encode(str(data)), serverAddr)
 
+    img = cv2.resize(img, (0, 0), None, 0.5, 0.5)
     cv2.imshow("Hand Tracking", img)
     cv2.waitKey(1)
 
