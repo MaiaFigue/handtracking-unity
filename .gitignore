@@ -70,6 +70,13 @@ UserSettings
 .DS_Store
 Thumbs.db
 
+# TextMesh Pro (installed via Package Manager, not source control)
+handGame/Assets/TextMesh Pro/
+
+# Solution files
+*.slnx
+*.sln
+
 # Package manager
 Packages/com.unity.package-manager-do-not-commit/
 
