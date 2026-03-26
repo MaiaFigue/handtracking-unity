@@ -78,12 +78,12 @@ handtracking-unity/
         │   └── MainMenu.unity
         └── Material/             # Custom materials
 ```
+---
 
 ## Demo
 
 <!-- Add a GIF or screenshot here -->
----![video_unityhand-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a5a26f83-4be1-48e5-8709-ce2faa5e5427)
-
+![video_unityhand-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a5a26f83-4be1-48e5-8709-ce2faa5e5427)
 
 ---
 
