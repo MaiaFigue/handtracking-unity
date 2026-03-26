@@ -45,6 +45,7 @@ venv/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+MemoryCaptures/
 
 # Auto-generated user-specific files
 [Mm]emoryCaptures/
@@ -57,7 +58,11 @@ venv/
 *.pidb
 *.booproj
 *.svd
+*.meta
+*.inputactions
+*.asset
 .vscode/
+TutorialInfo/
 UserSettings
 
 
@@ -67,3 +72,4 @@ Thumbs.db
 
 # Package manager
 Packages/com.unity.package-manager-do-not-commit/
+
